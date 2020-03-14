@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "author": "Красивые люди",
+    "postType": "POST",
+    "source": null,
+    "text": "Мы скромные!",
+    "date": "25.02.20",
+    "like": {
+      "count": 0,
+      "isLiked": false
+    },
+    "comment": {
+      "count": 33,
+      "canPost": false
+    },
+    "reply": {
+      "count": 33,
+      "text": null,
+      "author": null,
+      "date": null
+    },
+    "address": null,
+    "coordinates": null,
+    "video": null,
+    "adsUrl": null
+  },
+  {
+    "id": 2,
+    "author": "Красивые люди",
+    "postType": "REPOST",
+    "source": null,
+    "text": "Мы скромные!",
+    "date": "25.02.20",
+    "like": {
+      "count": 0,
+      "isLiked": false
+    },
+    "comment": {
+      "count": 33,
+      "canPost": false
+    },
+    "reply": {
+      "count": 1000,
+      "text": "Мы лучшие! Мы крутые!",
+      "author": "Красивые люди",
+      "date": "24.02.20"
+    },
+    "address": null,
+    "coordinates": null,
+    "video": null,
+    "adsUrl": null
+  },
+  {
+    "id": 3,
+    "author": "Красивые люди",
+    "postType": "ADS",
+    "source": null,
+    "text": "Мы скромные!",
+    "date": "25.02.20",
+    "like": {
+      "count": 0,
+      "isLiked": false
+    },
+    "comment": {
+      "count": 33,
+      "canPost": false
+    },
+    "reply": {
+      "count": 333,
+      "text": null,
+      "author": null,
+      "date": null
+    },
+    "address": null,
+    "coordinates": null,
+    "video": null,
+    "adsUrl": "https://yandex.ru/images/search?text\u003dсамолёт\u0026from\u003dtabbar"
+  },
+  {
+    "id": 4,
+    "author": "Красивые люди",
+    "postType": "VIDEO",
+    "source": null,
+    "text": "Мы скромные!",
+    "date": "25.02.20",
+    "like": {
+      "count": 0,
+      "isLiked": false
+    },
+    "comment": {
+      "count": 33,
+      "canPost": false
+    },
+    "reply": {
+      "count": 323,
+      "text": null,
+      "author": null,
+      "date": null
+    },
+    "address": null,
+    "coordinates": null,
+    "video": {
+      "url": "https://www.youtube.com/watch?v\u003dWhWc3b3KhnY"
+    },
+    "adsUrl": null
+  },
+  {
+    "id": 5,
+    "author": "Красивые люди",
+    "postType": "EVENT",
+    "source": null,
+    "text": "Мы скромные!",
+    "date": "25.02.20",
+    "like": {
+      "count": 0,
+      "isLiked": false
+    },
+    "comment": {
+      "count": 33,
+      "canPost": false
+    },
+    "reply": {
+      "count": 33,
+      "text": null,
+      "author": null,
+      "date": null
+    },
+    "address": "Москва, центр культуры",
+    "coordinates": null,
+    "video": null,
+    "adsUrl": null
+  }
+]
